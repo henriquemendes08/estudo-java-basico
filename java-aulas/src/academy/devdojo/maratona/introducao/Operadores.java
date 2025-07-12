@@ -1,3 +1,5 @@
+package academy.devdojo.maratona.introducao;
+
 public class Operadores {
 
     // sout é o atalho para escrever System.out.println no IntelliJ
