@@ -1,3 +1,5 @@
+package academy.devdojo.maratona.introducao;
+
 public class Aula06EstruturaDeRepeticao {
     public static void main(String[] args){
         int count = 0;

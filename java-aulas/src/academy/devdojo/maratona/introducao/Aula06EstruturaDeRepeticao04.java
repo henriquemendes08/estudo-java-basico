@@ -1,3 +1,5 @@
+package academy.devdojo.maratona.introducao;
+
 public class Aula06EstruturaDeRepeticao04 {
     public static void main(String[] args) {
         int valorCarro = 30000;

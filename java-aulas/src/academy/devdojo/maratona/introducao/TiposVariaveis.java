@@ -1,3 +1,5 @@
+package academy.devdojo.maratona.introducao;
+
 public class TiposVariaveis {
     public static void main(String[] args ){
         short salarioMinimo = 2500;
